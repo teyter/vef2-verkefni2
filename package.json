@@ -1,0 +1,27 @@
+{
+  "name": "vef2-verkefni2",
+  "version": "1.0.0",
+  "description": "Verkefni 2, Vefforritun 2, 2021",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teyter/vef2-verkefni2.git"
+  },
+  "author": "teytur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teyter/vef2-verkefni2/issues"
+  },
+  "homepage": "https://github.com/teyter/vef2-verkefni2#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
